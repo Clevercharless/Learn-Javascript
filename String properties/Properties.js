@@ -3,7 +3,7 @@
 12;
 
 'This is also a string';
-'This is a string"; // mismatched quotes - this will not execute
+'This is a string"; // mismatched quoes - this will not execute
 
 '<a href="">';
 '<a href="http://www.example.com">';
